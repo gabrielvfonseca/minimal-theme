@@ -3,6 +3,7 @@
   "displayName": "minimal-theme",
   "description": "A sleek, clean, and distraction-free theme for those who like their editor simple and beautiful.",
   "version": "0.0.1",
+  "publisher": "gabrielfonseca",
   "engines": {
     "vscode": "^1.98.0"
   },
