@@ -6,15 +6,46 @@
   "engines": {
     "vscode": "^1.98.0"
   },
+  "keywords": [
+    "minimal",
+    "grayscale",
+    "muted",
+    "monochrome",
+    "futuristic",
+    "modern",
+    "clean",
+    "soft black",
+    "low contrast",
+    "professional",
+    "dark mode",
+    "elegant",
+    "matte",
+    "subtle",
+    "neutral",
+    "cool tones",
+    "premium",
+    "high-tech",
+    "developer-focused",
+    "focus-driven",
+    "non-distracting",
+    "sharp",
+    "low-light",
+    "workspace"
+  ],
+  "author": {
+    "email": "jg.fonseca@outlook.pt",
+    "name": "Gabriel Fonseca",
+    "url": "https://github.com/gabrielvnfonseca"
+  },
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Minimal",
+        "label": "Minimal Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Minimal-color-theme.json"
+        "path": "./themes/minimal-dark-theme.json"
       }
     ]
   }

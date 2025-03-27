@@ -1,16 +1,33 @@
-# minimal-theme README
+# Minimal Theme
 
-## Working with Markdown
+A clean, minimal dark theme for Visual Studio Code that focuses on readability and visual hierarchy.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Dark, minimal color scheme
+- High contrast for better readability
+- Consistent color hierarchy
+- Optimized for long coding sessions
+- Support for multiple languages and file types
+- Customized markdown styling
 
-## For more information
+## Install
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Download the theme file (`themes/Minimal-color-theme.json`)
+2. Copy it to your VS Code themes directory:
+   - Windows: `%USERPROFILE%\.vscode\extensions`
+   - macOS: `~/.vscode/extensions`
+   - Linux: `~/.vscode/extensions`
+3. Reload VS Code
+4. Select the theme:
+   - Press `Cmd+Shift+P` (macOS) or `Ctrl+Shift+P` (Windows/Linux)
+   - Type "Color Theme"
+   - Select "Minimal"
 
-**Enjoy!**
+## Contributing
+
+Feel free to submit issues and enhancement requests!
+
+## License
+
+This theme is licensed under the MIT License - see the LICENSE file for details.
